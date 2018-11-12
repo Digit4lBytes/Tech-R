@@ -60,6 +60,22 @@ Intro slide to Web applicatoins technology
 [Timestamp -1045 - 15 Min break to 1100]
 
 Expectations upon return to undertake Module 2 - Lab installing WAMP
+  ! remember to advise delegates to change to the Chrome browser so they can use the Dev tools 
+  
+  Once installed - moved on to slide 15 HTML and short chalk and talk Sir TBL
+  HTML-JS- Action script to 4GL action
+          Structure
+          Style
+          Behaviour as 3 seperate pillars of connection 
+          
+                      Connection - DB relationship for retrival of Data for dynamic site content 
+                      
+                         
+             
+          At about - 11:45  introduces LAB2 to complete to the top of the hour by the delegates 
+          Introduce users to Visual Studio 
+          
+
               
               
                     
